@@ -1,0 +1,3 @@
+?
+echo"I love php!";
+?>
